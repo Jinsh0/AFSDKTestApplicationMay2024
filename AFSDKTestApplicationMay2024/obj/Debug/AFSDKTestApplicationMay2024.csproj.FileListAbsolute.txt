@@ -1,0 +1,10 @@
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\bin\Debug\AFSDKTestApplicationMay2024.exe.config
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\bin\Debug\AFSDKTestApplicationMay2024.exe
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\bin\Debug\AFSDKTestApplicationMay2024.pdb
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\obj\Debug\AFSDKTestApplicationMay2024.csproj.AssemblyReference.cache
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\obj\Debug\AFSDKTestApplicationMay2024.csproj.SuggestedBindingRedirects.cache
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\obj\Debug\AFSDKTestApplicationMay2024.csproj.CoreCompileInputs.cache
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\obj\Debug\AFSDKTestApplicationMay2024.csproj.CopyComplete
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\obj\Debug\AFSDKTestApplicationMay2024.exe
+C:\Users\gary.wijono\source\repos\AFSDKTestApplicationMay2024\AFSDKTestApplicationMay2024\obj\Debug\AFSDKTestApplicationMay2024.pdb
